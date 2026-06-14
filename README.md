@@ -23,9 +23,12 @@ This repository contains Python projects completed as part of my Python Developm
 - Python
 - VS Code
 - GitHub
+## Output Screenshots
+
+Screenshots demonstrating the execution and output of the programs are available in the screenshots folder.
 
 ## Author
 
 Madhuri Visarapu
-B.Tech (3-1)
-Python Development Internship
+
+B.Tech Student | Python Development Internship
