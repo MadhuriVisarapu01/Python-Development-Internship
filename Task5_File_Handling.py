@@ -1,0 +1,12 @@
+import os
+print(os.getcwd())
+file = open("samples.txt", "w")
+text = input("Enter text to save in file: ")
+file.write(text)
+file.close()
+print("Data saved successfully!")
+file = open("samples.txt", "r")
+content = file.read()
+print("\nData stored in file:")
+print(content)
+file.close()
