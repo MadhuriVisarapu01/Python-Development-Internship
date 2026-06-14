@@ -27,3 +27,5 @@ This repository contains Python projects completed as part of my Python Developm
 ## Author
 
 Madhuri Visarapu
+B.Tech (3-1)
+Python Development Internship
